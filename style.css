@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Rajdhani', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+#my-photo{
+    width: 12em;
+    height: 12em;
+    border-radius: 20em;
+    /* padding: 1em; */
+    box-shadow:  10px 10px 5px #596571;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 5rem;
+    color: #596571;
+}
+
+#slide-h1{
+    position: relative;
+    bottom: 3rem;
+}
+
+
+h2{
+    font-weight: bolder;
+    color: #a7b6c6;
+    font-size: 1em;
+}
+.content{
+    font-weight: 400;
+    font-size: larger;
+    padding: 1em;
+    margin-bottom: 6rem;
+
+}
+.content p{
+    font-size: medium;
+}
+
+.card-1{
+    padding-top:2em ;
+}
+
+.about-page{
+    background-color: #a7b6c6;
+    padding: 4rem;
+    border-radius: 2rem;
+    font-size: larger;
+}
+
+.about-page > h1{
+    position: relative;
+    bottom: 7rem;
+}
+
+.slide-img{
+    height: 30rem;
+    width: 10rem ;
+    opacity: 0.2;
+}
+.slide-text{
+    position: relative;
+    bottom: 20rem;
+}
+.slides,h3{
+    font-size: 4rem;
+    font-weight: 700;
+    color: #596571;
+}
+.footer{
+    background-color: #a7b6c6;
+    height: 40vh;
+    color:#596571;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+.footer h1{
+    position: relative;
+    bottom: 3rem;
+}
